@@ -1,0 +1,16 @@
+body {
+    background-image: url("./photos/Dark_Material_Design_uhd.jpg");
+}
+.flex-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.flex-box>a {
+    background-color: aliceblue;
+    border-radius: 100%;
+    padding: 10px;
+    margin: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
